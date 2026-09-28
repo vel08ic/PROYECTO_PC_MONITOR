@@ -14,5 +14,4 @@ Herramienta CLI en Python orientada a la administración de sistemas para monito
 - Librería `psutil`
 
 ## Uso
-1. Instala la dependencia:
 `python pc_monitor.py`
